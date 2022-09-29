@@ -3,8 +3,9 @@
 </div>  
   
 
-### <div align="center">Soy Kevin, desarrollador de software y apasionado del mundo IT🚀</div>  
-  
+<div align="center">Soy Kevin, desarrollador de software y apasionado del mundo IT🚀</div>  
+<br/>  
+<br/>  
 
 - 🌐 Desarrollo web con Django, HTML y Bootstrap  
   
